@@ -1,1 +1,0 @@
-# Udacity-p5-image-classification
